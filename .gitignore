@@ -388,3 +388,8 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+# Additional Stuff
+*.zip
+icon.png
+manifest.json
